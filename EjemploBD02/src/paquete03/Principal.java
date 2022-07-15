@@ -18,7 +18,7 @@ public class Principal {
         Enlace c = new Enlace();
         Auto a = new Auto();
         a.establecerPlaca("LBNS0001");
-        a.establecerValorMatricula(200.2);
+        a.establecerValorMatricula(88800.2);
         
         c.insertarAuto(a);
         
